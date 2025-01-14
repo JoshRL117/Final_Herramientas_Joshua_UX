@@ -1,0 +1,2 @@
+En este proyecto se muestra el proceso para la simulación de un automóvil autónomo capaz de esquivar a
+distintos obstáculos puestos en un circuito, todo esto se desarrollo utilizando unity en su versión 2021.3.4f1, esto debido a su gran variedad de herramientas que dispone para el desarrollo de video juegos, este caso tratándose de una simulación.
